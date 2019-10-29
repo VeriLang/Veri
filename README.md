@@ -1,2 +1,1 @@
-# Veri
-An official guide to VeriLang
+# Veri Handbook - An official guide to VeriLang
